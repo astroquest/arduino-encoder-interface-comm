@@ -1,0 +1,7 @@
+EncoderInterfaceComm    KEYWORD1
+getCountsPerSecond  KEYWORD2
+getRpm  KEYWORD2
+getSpeed    KEYWORD2
+resetCount  KEYWORD2
+requestCount    KEYWORD2
+receiveCount    KEYWORD2
